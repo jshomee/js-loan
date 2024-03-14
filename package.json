@@ -1,6 +1,6 @@
 {
   "name": "@jshomee/js-loan",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Description for js-loan",
   "main": "src/index.js",
   "scripts": {
